@@ -3,4 +3,4 @@ generated wrappers.
 
 The complete documentation of Stratum is available at [https://stratum.readthedocs.io/](https://stratum.readthedocs.io/).
 
-<small><small>Credits: [Freepik](https://www.freepik.com/icon/database_148827)</small></small>.
+<sub><sub>Credits: [Freepik](https://www.freepik.com/icon/database_148827).</sub></sub>
